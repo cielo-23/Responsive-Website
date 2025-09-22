@@ -7,15 +7,18 @@ Wish upon a hook provides a creative space for crocheters, whether you're just s
 ## OBJECTIVES
 
 • Breakdown a complex pattern into a step by step command so beginners can confidently follow along without confusion.
+
 • Ensures instructions are clear and easy to understand, supported by visuals.
+
 • Can be accessed on different devices.
 
 
 ## SCOPE OF WORK
 
-### In Scope #### Feature A
+### In Scope 
+#### Feature A
 ##### Easy to follow patterns
-Providing a step by step process that is beginner friendly up to intermediate crochet patterns with visuals and simple commands. Will be organized by categories (ex. Amigurumi, accessories).
+• Providing a step by step process that is beginner friendly up to intermediate crochet patterns with visuals and simple commands. Will be organized by categories (ex. Amigurumi, accessories).
 
 Feature B
 Helpful Visuals with a well organized layout
