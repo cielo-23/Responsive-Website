@@ -16,31 +16,34 @@ Wish upon a hook provides a creative space for crocheters, whether you're just s
 ## SCOPE OF WORK
 
 ### In Scope 
-##### Easy to follow patterns
+#### Easy to follow patterns
 • Providing a step by step process that is beginner friendly up to intermediate crochet patterns with visuals and simple commands. Will be organized by categories (ex. Amigurumi, accessories).
 
-##### Helpful Visuals with a well organized layout
+#### Helpful Visuals with a well organized layout
 • This website will feature a clean and intuitive layout website with easy navigation and user friendly, ensuring the accessibility across devices. 
                     
-##### Responsive
+#### Responsive
 • Our site will be Accessible across all devices and will adjust depending on the Screen Sizes, However, we will focus on readability and layout adaptability rather than Advanced Mobile optimization.
 
 ### Out Scope 
 
-##### E-commerce functionality
+#### E-commerce functionality
 • The website will not support selling yarns, hooks, or any crochet materials. It will also have no Integration of 3rd Party E-commerce platforms like Shopee, Etsy, or Lazada.
 
-##### No real time updates
+#### No real time updates
 • No real time teaching and requesting of any crochet patterns. 
 
-##### Mobile App Development
+#### Mobile App Development
 • We will focus on the Online Web and will not develop a Downloadable Mobile app.
 
 
 ## TEAM MEMBERS
 Banzagale, Cielo Marie  - Coder, Designer
+
 Campos, Nelgin Julianne - Coder, Designer
+
 Dela Pena, Michelle - Coder, Designer
+
 Gonzalez, Janeljoy - Coder, Designer
 
 
@@ -76,7 +79,9 @@ Finalizing the Website for submission and presentation.
  
 ## APPROVAL STATUS 
 Status: Approved
+
 Approved by: Fitalvo, Josephine
+
 Approval Date: 2025-08-14
 
 
