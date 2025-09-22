@@ -14,7 +14,6 @@ Can be accessed on different devices.
 ## SCOPE OF WORK
 
 ### In Scope
-
 #### Feature A
 ##### Easy to follow patterns
 Providing a step by step process that is beginner friendly up to intermediate crochet patterns with visuals and simple commands. Will be organized by categories (ex. Amigurumi, accessories).
