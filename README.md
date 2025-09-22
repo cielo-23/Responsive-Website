@@ -49,50 +49,12 @@ Gonzalez, Janeljoy - Coder, Designer
 
 ## TIMELINE/GANTT CHART
 
-<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
-  <tr style="background-color: #f2f2f2; text-align: center;">
-    <th>Phase</th>
-    <th>Start Date</th>
-    <th>End Date</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><b>Planning</b></td>
-    <td>2025-08-05</td>
-    <td>2025-09-04</td>
-    <td>
-      Defining the Project Scope by Researching, and deciding on the overall website layout 
-      through Sketching, and Brainstorming.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Development</b></td>
-    <td>2025-09-05</td>
-    <td>2025-11-30</td>
-    <td>
-      Building The Final Website Structure for Home, About, Patterns, and Contacts. 
-      Applying Visual Designs and ensuring basic responsiveness across devices. 
-      Coding for each page and assembling the content of the website. <i>(ongoing)</i>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Testing and Review</b></td>
-    <td>2025-12-01</td>
-    <td>2025-12-07</td>
-    <td>
-      Checking Functionality, reviewing Content placements, and verifying the consistency across devices.<br><br>
-      Collecting Feedback from Teammates, Advisors and making Revision if necessary.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Deployment</b></td>
-    <td>2025-12-07</td>
-    <td>2025-12-15</td>
-    <td>
-      Finalizing the Website for submission and presentation.
-    </td>
-  </tr>
-</table>
+| Phase             | Start Date | End Date   | Description |
+|-------------------|------------|------------|-------------|
+| **Planning**      | 2025-08-05 | 2025-09-04 | Defining the Project Scope by Researching, and deciding on the overall website layout through Sketching, and Brainstorming. |
+| **Development**   | 2025-09-05 | 2025-11-30 | Building The Final Website Structure for Home, About, Patterns, and Contacts. Applying Visual Designs and ensuring basic responsiveness across devices. Coding for each page and assembling the content of the website. *(ongoing)* |
+| **Testing and Review** | 2025-12-01 | 2025-12-07 | Checking Functionality, reviewing Content placements, and verifying the consistency across devices.<br><br>Collecting Feedback from Teammates, Advisors and making Revision if necessary. |
+| **Deployment**    | 2025-12-07 | 2025-12-15 | Finalizing the Website for submission and presentation. |
 
  
 ## APPROVAL STATUS 
