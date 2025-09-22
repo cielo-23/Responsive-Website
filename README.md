@@ -49,8 +49,8 @@ Gonzalez, Janeljoy - Coder, Designer
 
 ## TIMELINE/GANTT CHART
 
-<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100;">
-  <tr style="background-color: #f2f2f2;">
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%;">
+  <tr style="background-color: #f2f2f2; text-align: center;">
     <th>Phase</th>
     <th>Start Date</th>
     <th>End Date</th>
@@ -93,6 +93,7 @@ Gonzalez, Janeljoy - Coder, Designer
     </td>
   </tr>
 </table>
+
  
 ## APPROVAL STATUS 
 Status: Approved
