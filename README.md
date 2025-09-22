@@ -38,10 +38,7 @@ Wish upon a hook provides a creative space for crocheters, whether you're just s
 
 
 ## TEAM MEMBERS
-Banzagale, Cielo Marie  - Coder, Designer
-Campos, Nelgin Julianne - Coder, Designer
-Dela Pena, Michelle - Coder, Designer
-Gonzalez, Janeljoy - Coder, Designer
+Banzagale, Cielo Marie  - Coder, Designer Campos, Nelgin Julianne - Coder, Designer Dela Pena, Michelle - Coder, Designer Gonzalez, Janeljoy - Coder, Designer
 
 
 
